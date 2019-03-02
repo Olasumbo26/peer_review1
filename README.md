@@ -3,7 +3,7 @@ ISSUES WITH SECENARIO                                              HOW TO IMPROV
 Feature: Ssearching	                                               Spelt incorectly- should be Searching
 I want to be able to search the site	                             I will write "As a user of the site"
 So that I can find information I am looking for	                   I will break it down "I want to be able to search, so that I can find the                                                                    information I am looking for
-Given http://www.clearcahnnelinterntional.com/	                   I will write " Given I navigate" to indicate what I want to do.
+Given http://www.clearchannelinterntional.com/	                   I will write " Given I navigate" to indicate what I want to do.
 When I go to the header	                                           Not necesaary bacause header is displayed on navaigation
 And I click on the icon on the right which will let me search	     Too Long
 And I enter test	                                                 Spelt incorectly- should be text
