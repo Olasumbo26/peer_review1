@@ -1,5 +1,5 @@
 # peer_review
-ISSUES WITH SECENARIO                                              HOW TO IMPROVE
+ISSUES WITH SCENARIO                                              HOW TO IMPROVE
 Feature: Ssearching	                                               Spelt incorectly- should be Searching
 I want to be able to search the site	                             I will write "As a user of the site"
 So that I can find information I am looking for	                   I will break it down "I want to be able to search, so that I can find the                                                                    information I am looking for
