@@ -1,6 +1,6 @@
 # peer_review
-#ISSUES WITH SCENARIO                                           
-##Feature: Ssearching
+ISSUES WITH SCENARIO                                           
+Feature: Ssearching
 
 1 I want to be able to search the site
 
@@ -44,24 +44,22 @@ CHANGES IMPLEMENTED
 
 Feature-Searching
 
-*As a user of the site
+As a user of the site
 
-*I want to be able to search
+I want to be able to search
 
-*So that I can find the information I am looking for
+So that I can find the information I am looking for
 
 
 
 Scenario outline 2- Search
 
-*Given I navigate to https://www.clearchannelinternational.com
+Given I navigate to https://www.clearchannelinternational.com
 
-*When I click the search icon
+When I click the search icon
 
-*And I enter text in the search field
+And I enter text in the search field
 
-*And I click on the search button
-
-*Then the information is displayed
+Then the information is displayed
 
 
