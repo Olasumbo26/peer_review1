@@ -1,6 +1,6 @@
 # peer_review
-##ISSUES WITH SCENARIO                                           
-##Feature: Ssearching
+ISSUES WITH SCENARIO                                           
+Feature: Ssearching
 
 1 I want to be able to search the site
 
