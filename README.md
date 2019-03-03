@@ -30,4 +30,18 @@
 * Too Long,
 * I will use "Then" for assertion
 
+#CHANGES IMPLEMENTED
+
+##Feature-Searching
+*As a user of the site
+*I want to be able to search
+*So that I can find the information I am looking for
+
+#Scenario outline 2- Search
+*Given I navigate to https://www.clearchannelinternational.com
+*When I click the search icon
+*And I enter text in the search field
+*And I click on the search button
+*Then the information is displayed
+
 
