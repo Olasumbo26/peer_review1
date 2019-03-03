@@ -21,27 +21,43 @@
 
   #HOW TO IMPROVE
 * Spelt incorectly- should be Searching
+
 * I will write "As a user of the site"
+
 * I will break it down "I want to be able to search, so that I can find the   information I am looking for
+
 * I will write " Given I navigate" to indicate what I want to do.
+
 * Not necesaary bacause header is displayed on navaigation
+
 * Too Long
+
 * Spelt incorectly- should be text
-* Too Long,
+
+* Too Long
+
 * I will use "Then" for assertion
 
 #CHANGES IMPLEMENTED
 
 ##Feature-Searching
+
 *As a user of the site
+
 *I want to be able to search
+
 *So that I can find the information I am looking for
 
 #Scenario outline 2- Search
+
 *Given I navigate to https://www.clearchannelinternational.com
+
 *When I click the search icon
+
 *And I enter text in the search field
+
 *And I click on the search button
+
 *Then the information is displayed
 
 
