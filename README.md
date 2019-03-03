@@ -6,7 +6,7 @@ Feature: Ssearching
 
 2 So that I can find information I am looking for
 
-3 Given http://www.clearchannelinterntional.com/
+3 Given http://www.clearchannelinternational.com/
 
 4 When I go to the header
 
