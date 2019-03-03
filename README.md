@@ -19,7 +19,7 @@ Feature: Ssearching
 8 And the search executes
 
 
-  #HOW TO IMPROVE
+  HOW TO IMPROVE
 * Spelt incorectly- should be Searching
 
 * I will write "As a user of the site"
@@ -38,9 +38,11 @@ Feature: Ssearching
 
 * I will use "Then" for assertion
 
-#CHANGES IMPLEMENTED
 
-##Feature-Searching
+
+CHANGES IMPLEMENTED
+
+Feature-Searching
 
 *As a user of the site
 
@@ -48,7 +50,9 @@ Feature: Ssearching
 
 *So that I can find the information I am looking for
 
-#Scenario outline 2- Search
+
+
+Scenario outline 2- Search
 
 *Given I navigate to https://www.clearchannelinternational.com
 
