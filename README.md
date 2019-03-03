@@ -19,15 +19,15 @@
 8 And the search executes
 
 
-  HOW TO IMPROVE
-1 Spelt incorectly- should be Searching
-2 I will write "As a user of the site"
-3 I will break it down "I want to be able to search, so that I can find the   information I am looking for
-4 I will write " Given I navigate" to indicate what I want to do.
-5 Not necesaary bacause header is displayed on navaigation
-6 Too Long
-7 Spelt incorectly- should be text
-8 Too Long,
-9 I will use "Then" for assertion
+  #HOW TO IMPROVE
+* Spelt incorectly- should be Searching
+* I will write "As a user of the site"
+* I will break it down "I want to be able to search, so that I can find the   information I am looking for
+* I will write " Given I navigate" to indicate what I want to do.
+* Not necesaary bacause header is displayed on navaigation
+* Too Long
+* Spelt incorectly- should be text
+* Too Long,
+* I will use "Then" for assertion
 
 
