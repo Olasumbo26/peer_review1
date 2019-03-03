@@ -20,7 +20,7 @@ Feature: Ssearching
 
 
   HOW TO IMPROVE
-* Spelt incorectly- should be Searching
+* Spelt incorrectly- should be Searching
 
 * I will write "As a user of the site"
 
